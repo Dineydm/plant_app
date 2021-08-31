@@ -1,4 +1,4 @@
-# Flutter plant shop App.
+# Flutter Plant Shop App.
 
 
 
